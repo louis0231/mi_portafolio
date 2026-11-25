@@ -6,7 +6,6 @@ proyectos y formación en tecnología.
 
 ## Tecnologías utilizadas
 
-- JavaScript
 - Python
 - Git y GitHub
 - Inteligenci Artificial

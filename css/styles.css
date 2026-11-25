@@ -379,6 +379,18 @@ section {
 
 }
 
+/* HABILIDADES BLANDAS EN FORMATO HORIZONTAL */
+
+.skill-card:last-child {
+    grid-column: 1 / -1;
+}
+
+.skill-card:last-child ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 25px;
+}
+
 /* DISEÑO ADAPTABLE PARA MOVILES */
 
 @media (max-width: 600px) {
